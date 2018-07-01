@@ -9,3 +9,7 @@ p{
 body{
     background-color: aliceblue
 }
+
+.derek{
+    display: none;
+}
