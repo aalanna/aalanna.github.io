@@ -35,7 +35,10 @@ p{
     border-radius: 4px;
     display: block;
     margin: 1.3em auto;
-    max-width: 95%
+    max-width: 95%;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(64,64,64);
+    padding:10px;
 }
 
 #floaties {
