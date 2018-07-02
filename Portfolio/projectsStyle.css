@@ -1,6 +1,22 @@
-startbutton{
-    display: block;
-    margin: 10px auto;
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color: black;
+}
+
+li{
+    float:left;
+}
+
+li a{
+    float:center;
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
 }
 
 p{
