@@ -1,10 +1,12 @@
 body{
-   background-color:#F8D8FF;" 
+    background-image: url("anime-anime-girls-white-hair-long-hair-wallpaper.jpg");
+    background-size:100%;
+    style="max-width:1500px";
 }
 
 ul{
     list-style-type: none;
-    margin:30;
+    margin:40;
     padding:0;
     overflow:hidden;
     background-color: black;
@@ -12,11 +14,11 @@ ul{
 }
 
 li{
-    float:left;
+    float:center;
 }
 
 li a{
-    float:center;
+    float:left;
     display:block;
     color: white;
     text-align: center;
@@ -25,29 +27,34 @@ li a{
 }
 
 h1{
-    color: blue;
-    background-color: aliceblue;
+    color: white;
     text-align: center;
-    padding:40px;
+}
+
+#home{
+    border-style: solid;
+    border-width: 17px;
+    border-color: azure;
+    width:55%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 p{
     text-align: center;
-    font-size: 14px;
-}
-
-#p{
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    color:white;
+    width:%;
+    font-family: 'Varela Round', sans-serif;
+    
 }
 
 .music2{
     display: none;
 }
 
-#flower{
-    text-align: center;
-    margin-left: 40%;
-    width: 250px;
-    box-shadow: 0 4px 8px 0 rgba(169,169,169), 0 6px 20px 0 rgba(160,82,45);
-    padding:10px;
+iframe{
+    width:100%
 }
