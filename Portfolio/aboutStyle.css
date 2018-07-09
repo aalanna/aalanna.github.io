@@ -4,10 +4,11 @@ body{
 
 ul{
     list-style-type: none;
-    margin:0;
+    margin:30;
     padding:0;
     overflow:hidden;
     background-color: black;
+    padding-left: 30%;
 }
 
 li{
@@ -63,10 +64,12 @@ p{
     height: 100px;
     width: 260px;
     font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .text{
     font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .bts{
@@ -86,5 +89,5 @@ p{
     border-radius: 4px;
     display: block;
     margin: 1.3em auto;
-    max-width: 95%
+    max-width: 95%;
 }
